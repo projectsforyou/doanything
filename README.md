@@ -1,4 +1,3 @@
 doanything
 ==========
-
-anything in this repo
+https://github.com/erikuus/Yii-Playground
